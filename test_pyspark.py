@@ -1,7 +1,7 @@
 import tweepy
 
 # Replace with your bearer token
-bearer_token = "AAAAAAAAAAAAAAAAAAAAALLP0gEAAAAAVkQMdn7OoT1H96C1OpHucoI132c%3DOtfP1jFAkfUAv6HoysW92Oboiub91OzhumgsM4u5sybeEcknMU"
+bearer_token = "YOUR_BEARER_TOKEN"
 
 # Create a client with your bearer token
 client = tweepy.Client(bearer_token=bearer_token)
